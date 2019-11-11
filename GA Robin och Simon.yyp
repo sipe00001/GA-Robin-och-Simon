@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "07593c28-66be-4bf4-ab1f-80b9c3332b8d",
+            "Value": {
+                "id": "849cae4c-b4ff-4ac3-8d2c-c7214f03510b",
+                "resourcePath": "objects\\obj_playerOverworld\\obj_playerOverworld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "141ffe08-d105-43b8-b4c1-b23547c7f284",
             "Value": {
                 "id": "93bf3ea1-53d6-4998-ac0f-81d10ca257b4",
                 "resourcePath": "views\\141ffe08-d105-43b8-b4c1-b23547c7f284.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "26666a63-a69b-476b-bdb2-b4ab2d691847",
+            "Value": {
+                "id": "204d56a7-01a2-4895-ae3d-30670ec17833",
+                "resourcePath": "sprites\\spr_playerOverworld\\spr_playerOverworld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31469998-71b8-4391-b34e-216d7446a080",
+            "Value": {
+                "id": "f8814af5-f17f-4d7d-a369-e4c7d83ec0e4",
+                "resourcePath": "scripts\\move_north\\move_north.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -79,11 +103,27 @@
             }
         },
         {
+            "Key": "583f9eca-76af-43a8-8d70-becccf442b7b",
+            "Value": {
+                "id": "9f6ccfe1-f208-44a3-80e1-76db1a330de5",
+                "resourcePath": "scripts\\move_west\\move_west.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6441b91c-320a-4e19-9b67-062714b48c0b",
             "Value": {
                 "id": "0060b30b-aa8d-4039-a4e1-f6c1b47492bb",
                 "resourcePath": "views\\6441b91c-320a-4e19-9b67-062714b48c0b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "670666de-a794-483d-97c1-472735cc445a",
+            "Value": {
+                "id": "bb3f4875-7c2e-492e-a8be-63fc3e94b222",
+                "resourcePath": "scripts\\scr_drawGrid\\scr_drawGrid.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -151,11 +191,27 @@
             }
         },
         {
+            "Key": "c7976e3b-380e-4749-a3c6-407e6b715171",
+            "Value": {
+                "id": "7cf6d38b-5fa3-4cfa-9da5-2f29fd940d1a",
+                "resourcePath": "scripts\\move_east\\move_east.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "72799329-898b-4fc2-b1cd-7f9ed738268d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d35698a2-0dff-4c77-959a-302a97dc66a9",
+            "Value": {
+                "id": "a7b48808-c33b-4f20-b308-1efc0f77ea44",
+                "resourcePath": "objects\\cont_grid\\cont_grid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -172,6 +228,14 @@
                 "id": "68ebd3f3-d666-4f9a-90e9-5fad6affa8ec",
                 "resourcePath": "views\\e8da93e8-40c5-410d-99bb-546e285a867b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f219e15a-a9a8-457e-bdbe-44187a68e1a9",
+            "Value": {
+                "id": "946837c7-a0b0-4461-a831-bac7c8587186",
+                "resourcePath": "scripts\\move_south\\move_south.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -192,7 +256,11 @@
         }
     ],
     "script_order": [
-        
+        "670666de-a794-483d-97c1-472735cc445a",
+        "31469998-71b8-4391-b34e-216d7446a080",
+        "c7976e3b-380e-4749-a3c6-407e6b715171",
+        "f219e15a-a9a8-457e-bdbe-44187a68e1a9",
+        "583f9eca-76af-43a8-8d70-becccf442b7b"
     ],
     "tutorial": ""
 }
