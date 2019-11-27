@@ -1,1 +1,1 @@
-y -= grid_unit_width;
+y -= grid_unit_width; //Flyttar karaktären norrut med lika mycket som karaktären och rutorna har i bredd och höjd. Fungerar likadant för alla riktningar.
