@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03e19e0e-9dc1-4831-95b2-fa58401434e0",
+            "Value": {
+                "id": "f78575b0-f434-4066-820b-ae406258f0f7",
+                "resourcePath": "sprites\\spr_enemyOverworld\\spr_enemyOverworld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "056569a2-d052-4002-a212-7eae554b82f7",
             "Value": {
                 "id": "94eed8a6-51fc-45b5-87a3-3cb09aa5d8e7",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "a389ccfd-e45b-41b3-a633-21ff4afaca82",
+            "Value": {
+                "id": "a729ab3f-2058-439d-be08-2bf7c3a38287",
+                "resourcePath": "objects\\obj_enemyOverworld\\obj_enemyOverworld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ab2ab9f4-9418-46b1-97f4-fe2494ca635e",
@@ -212,6 +228,14 @@
                 "id": "a7b48808-c33b-4f20-b308-1efc0f77ea44",
                 "resourcePath": "objects\\cont_grid\\cont_grid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d381a25b-8163-4c60-8896-3efa597c923f",
+            "Value": {
+                "id": "620def12-4cce-4be2-9d68-56f433bd7ac6",
+                "resourcePath": "views\\d381a25b-8163-4c60-8896-3efa597c923f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
