@@ -1,5 +1,5 @@
 
 hspd = 0;
 vspd = 0;
-grav = 0.1;
+grav = 0.3;
 walkspd = 4;
