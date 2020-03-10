@@ -1,6 +1,6 @@
 
 {
-    "name": "Menutest",
+    "name": "main_menu",
     "id": "6a7a8700-6a27-4e16-ab3b-3d51399f2c3e",
     "creationCodeFile": "",
     "inheritCode": false,

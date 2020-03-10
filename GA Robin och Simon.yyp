@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1eb5ea4c-247e-435c-8296-c3ae76b6aa7c",
+            "Value": {
+                "id": "6411bb05-ac00-4a90-835b-db157547dbcf",
+                "resourcePath": "rooms\\shop_menu\\shop_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "222bc306-2c56-4cbc-91e2-2e77efef3a58",
             "Value": {
                 "id": "13d7defe-4888-499b-9e84-e270693519bc",
@@ -170,7 +178,7 @@
             "Key": "6a7a8700-6a27-4e16-ab3b-3d51399f2c3e",
             "Value": {
                 "id": "9a77258c-f7b7-4216-a502-4c63fb19c20f",
-                "resourcePath": "rooms\\Menutest\\Menutest.yy",
+                "resourcePath": "rooms\\main_menu\\main_menu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -234,7 +242,7 @@
             "Key": "9af9ac63-238c-4585-a8b6-b8bd93cc724d",
             "Value": {
                 "id": "a81cfd74-2a25-40b4-824e-bcde30bc884a",
-                "resourcePath": "objects\\o_menu\\o_menu.yy",
+                "resourcePath": "objects\\o_mainmenu\\o_mainmenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -339,6 +347,14 @@
             "Value": {
                 "id": "e4046e9e-86ed-4ed9-ab05-a190ea59e5d1",
                 "resourcePath": "objects\\obj_playerBattle\\obj_playerBattle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e3ce5db3-d7ac-433d-9626-2ae73ea8a26c",
+            "Value": {
+                "id": "0263e26b-3ea8-41c3-b35d-335aa14706bb",
+                "resourcePath": "objects\\o_shopmenu\\o_shopmenu.yy",
                 "resourceType": "GMObject"
             }
         },
