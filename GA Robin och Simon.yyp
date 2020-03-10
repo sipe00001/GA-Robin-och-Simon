@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "07eb1345-c3ce-415f-af9e-b6100cf224a2",
+            "Value": {
+                "id": "d3d0af22-525b-448d-8201-2608f7f19ec5",
+                "resourcePath": "sprites\\spr_money\\spr_money.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ad7ad0c-b8ad-4eb2-b980-fe58e2a9aa7f",
             "Value": {
                 "id": "cc50e833-6830-464b-a04c-c581d0332d69",
@@ -140,6 +148,14 @@
                 "id": "f8814af5-f17f-4d7d-a369-e4c7d83ec0e4",
                 "resourcePath": "scripts\\move_north\\move_north.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "329e944c-46df-4291-81f1-b2051a8df359",
+            "Value": {
+                "id": "5067209a-b797-4970-9b8c-b2c4a2421b0e",
+                "resourcePath": "objects\\obj_money\\obj_money.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -282,7 +298,7 @@
             "Key": "9af9ac63-238c-4585-a8b6-b8bd93cc724d",
             "Value": {
                 "id": "a81cfd74-2a25-40b4-824e-bcde30bc884a",
-                "resourcePath": "objects\\o_mainmenu\\o_mainmenu.yy",
+                "resourcePath": "objects\\obj_mainmenu\\obj_mainmenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -332,6 +348,14 @@
                 "id": "055c04e7-3db8-4bef-b556-b2d70982b09e",
                 "resourcePath": "sprites\\spr_float\\spr_float.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b9b16c68-0b99-48de-b63f-21195b4e2443",
+            "Value": {
+                "id": "fdf7167e-080a-4c0e-bb67-13734bd5aefb",
+                "resourcePath": "objects\\obj_drawmoney\\obj_drawmoney.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -434,7 +458,7 @@
             "Key": "e3ce5db3-d7ac-433d-9626-2ae73ea8a26c",
             "Value": {
                 "id": "0263e26b-3ea8-41c3-b35d-335aa14706bb",
-                "resourcePath": "objects\\o_shopmenu\\o_shopmenu.yy",
+                "resourcePath": "objects\\obj_shopmenu\\obj_shopmenu.yy",
                 "resourceType": "GMObject"
             }
         },
