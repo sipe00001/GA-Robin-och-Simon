@@ -183,14 +183,6 @@
             }
         },
         {
-            "Key": "806066bb-6e9d-486c-8681-4bb7e6cffeb1",
-            "Value": {
-                "id": "766a3950-e1a9-4c56-a74d-69cfb1c23ea3",
-                "resourcePath": "sprites\\spr_playerBattle\\spr_playerBattle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "849d11ed-2fb2-47e3-9abb-37a60419252a",
             "Value": {
                 "id": "01733139-f2a9-45a0-9348-5a7f7fa336eb",
@@ -324,6 +316,14 @@
                 "id": "3c48bfe2-e6a6-4e7d-8612-abe01216b640",
                 "resourcePath": "fonts\\font_main\\font_main.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "dfaded49-4744-43ed-9830-410449ef3879",
+            "Value": {
+                "id": "092c2758-430d-42d1-b7a3-63a97236dcad",
+                "resourcePath": "sprites\\spr_playerBattle\\spr_playerBattle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
