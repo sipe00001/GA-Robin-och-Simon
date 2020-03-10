@@ -1,11 +1,11 @@
 
 menu_x = x;
 menu_y = y;
-button_h = 32;
+button_h = 128;
 
 //buttons
 button[0] = "Play"
-button[1] = "2"
+button[1] = "Shop"
 button[2] = "3"
 button[3] = "Exit"
 buttons = array_length_1d(button);
