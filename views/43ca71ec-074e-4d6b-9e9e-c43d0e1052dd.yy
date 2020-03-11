@@ -10,7 +10,8 @@
         "9a38a5c8-1150-46dc-ab1a-8d3f234f5d65",
         "86ffc4b0-305c-4f1e-9d82-db5c17ce989c",
         "a57f0071-092f-4d52-a792-9491ac1f763f",
-        "dd9f732a-7e38-4d41-a7fb-f0eb7d1115e6"
+        "dd9f732a-7e38-4d41-a7fb-f0eb7d1115e6",
+        "8b512cc1-4e4b-4500-a74c-1212bbfa0329"
     ],
     "filterType": "GMObject",
     "folderName": "grp_Robin",

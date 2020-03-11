@@ -1,3 +1,5 @@
+/// @description updatera döden
+
 if (done == 0)
 {
 	vspd = vspd + grav;

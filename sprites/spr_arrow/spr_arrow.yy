@@ -7,10 +7,10 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 49,
-    "bbox_left": 1,
-    "bbox_right": 26,
+    "bbox_left": 21,
+    "bbox_right": 25,
     "bbox_top": 43,
-    "bboxmode": 0,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 30,
-    "xorig": 14,
+    "xorig": 13,
     "yorig": 46
 }
