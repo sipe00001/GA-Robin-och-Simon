@@ -1,5 +1,5 @@
-hspd = 3;
-vspd = -4;
+hspd = 0;
+vspd = 0;
 grav = 0.3;
 done = 0;
 
