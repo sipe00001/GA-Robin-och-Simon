@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "06371408-c50d-4ad6-bf19-647ef58329de",
+            "Value": {
+                "id": "46b1ffe3-0216-448e-9cb0-ebf2672a16e5",
+                "resourcePath": "tilesets\\ts_overworld\\ts_overworld.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "0692999b-b36d-4375-a2ec-2a3f7b152ffb",
             "Value": {
                 "id": "374e804f-58a4-4730-aba6-48f7e41ead6a",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "3bb9f62e-9479-437a-ba48-45afaf3e346c",
+            "Value": {
+                "id": "0315aba6-5501-4a53-9df5-dbc0284c5b4c",
+                "resourcePath": "sprites\\spr_playerOverworldNew\\spr_playerOverworldNew.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43ca71ec-074e-4d6b-9e9e-c43d0e1052dd",
             "Value": {
                 "id": "ecdce37c-f351-42ee-95b6-9f3bf77eeca0",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "52132178-f2c1-4915-9cd5-0408fb67ded6",
+            "Value": {
+                "id": "61fb5e4a-b7b5-48c1-9a3c-7375dd83b0db",
+                "resourcePath": "sprites\\spr_enemyOverworldNew\\spr_enemyOverworldNew.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54a63dd3-142a-457d-9d36-308f96a82076",
             "Value": {
                 "id": "a67b65d3-b9eb-4a3e-b72f-c45679cbaf64",
@@ -236,6 +260,14 @@
                 "id": "9f6ccfe1-f208-44a3-80e1-76db1a330de5",
                 "resourcePath": "scripts\\move_west\\move_west.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "628b4358-0c9b-40a8-8615-5511cc622453",
+            "Value": {
+                "id": "43f97452-bdc3-484d-bbe0-38f00744f76c",
+                "resourcePath": "sprites\\spr_stad\\spr_stad.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -492,6 +524,14 @@
                 "id": "72799329-898b-4fc2-b1cd-7f9ed738268d",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf84b2b2-1185-4168-942b-13f6586f798a",
+            "Value": {
+                "id": "5eced174-cab9-4825-9f84-51d065a9dec4",
+                "resourcePath": "sprites\\spr_tileset\\spr_tileset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
