@@ -1,4 +1,3 @@
-
 var i = 0;
 repeat(buttons) {
 	

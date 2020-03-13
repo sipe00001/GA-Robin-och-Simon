@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "5db537c9-628d-4ee3-bfd0-af8fb56815da",
+            "Value": {
+                "id": "202cab41-e919-4bb8-aad2-c64ed6773c37",
+                "resourcePath": "fonts\\font_mainsmall\\font_mainsmall.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "628b4358-0c9b-40a8-8615-5511cc622453",
             "Value": {
                 "id": "43f97452-bdc3-484d-bbe0-38f00744f76c",
@@ -498,7 +506,7 @@
             "Key": "b9b16c68-0b99-48de-b63f-21195b4e2443",
             "Value": {
                 "id": "fdf7167e-080a-4c0e-bb67-13734bd5aefb",
-                "resourcePath": "objects\\obj_drawmoney\\obj_drawmoney.yy",
+                "resourcePath": "objects\\obj_drawhealth\\obj_drawhealth.yy",
                 "resourceType": "GMObject"
             }
         },
