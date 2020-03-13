@@ -5,9 +5,7 @@ button_h = 128;
 
 //buttons
 button[0] = "Play"
-button[1] = "Shop"
-button[2] = "Overworld"
-button[3] = "Exit"
+button[1] = "Exit"
 buttons = array_length_1d(button);
 
 menu_index = 0;
