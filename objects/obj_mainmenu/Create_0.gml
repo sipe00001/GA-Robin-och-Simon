@@ -1,4 +1,4 @@
-
+window_set_fullscreen(true);
 menu_x = x;
 menu_y = y;
 button_h = 128;
