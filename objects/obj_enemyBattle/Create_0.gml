@@ -1,4 +1,4 @@
-
+//skapar de variablar som behövs
 vspd = 0;
 grav = 0.3;
 walkspd = 4;

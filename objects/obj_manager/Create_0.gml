@@ -1,5 +1,7 @@
+//skapar listan för inventory (inv)
 global.inv = ds_list_create();
 
+//lägger till 3 saker i den
 enum item 
 {
 	coin,

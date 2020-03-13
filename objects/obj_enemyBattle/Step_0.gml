@@ -1,6 +1,7 @@
-
+//gör så att gravitaion påverkar den vertikala hastigheten för fiender
 vspd = vspd + grav;
 
+//fiender förlorar sin hastighet vid kollision med vägg
 if (place_meeting(x+hspd,y,obj_wall1))
 {
 	while (!place_meeting(x+sign(hspd),y,obj_wall1))
@@ -21,7 +22,7 @@ if (place_meeting(x,y+vspd,obj_wall1))
 }
 y = y + vspd;
 
-//animationer
+//animationer för fienders vertikala och horisontella rörelser
 if (!place_meeting(x,y+1,obj_wall1))
 {
 	sprite_index = spr_enemyBattleJump;

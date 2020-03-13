@@ -1,3 +1,4 @@
+//om ett item möter en spelare så försvinner den och ökar i mängd.
 if (place_meeting(x, y, obj_playerBattle))
 {
 	instance_destroy();
