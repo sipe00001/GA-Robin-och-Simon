@@ -10,7 +10,7 @@
         "fe05dd55-0b79-46e6-ab30-820a01aa303c"
     ],
     "filterType": "GMObject",
-    "folderName": "Items",
+    "folderName": "Items, används i shop",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

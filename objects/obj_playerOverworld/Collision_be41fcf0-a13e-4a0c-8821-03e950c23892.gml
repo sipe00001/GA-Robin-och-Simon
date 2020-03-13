@@ -1,4 +1,4 @@
 with (instance_nearest(x, y, obj_enemyOverworld))
    {
-   instance_destroy(); //Förstör fienden när karaktären nuddar den
+   room_goto(room1); //Gör så att man går in i striden när man rör en fiende
    }

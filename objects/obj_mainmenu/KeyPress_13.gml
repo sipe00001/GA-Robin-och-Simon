@@ -1,6 +1,6 @@
 
 
-switch(menu_index) {
+switch(menu_index) { //Gör olika saker beroende på vilket val man gör i menyn
 	
 	case 0:
 		room_goto(room1);

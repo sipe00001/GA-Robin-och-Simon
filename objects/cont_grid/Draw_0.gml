@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
-scr_drawGrid();
+
+scr_drawGrid(); //använder scriptet som ritar en grid
